@@ -1,1 +1,7 @@
-test
+GitCheatsheet:
+Ablauf hochladen: git add (was habt ihr verändert?) --> git commit (Beschreibung was ihr gemacht habt) --> git push (in remote repos einfügen)
+Ablauf herunterladen: git pull oder git fetch (Änderungen herunterladen aber noch nicht verbinden) --> git 
+Git add für die Auswahl dessen, was ihr commiten und pushen wollt:
+git add file.txt          # Fügt die Datei file.txt zum Staging-Bereich hinzu
+git add directory/        # Fügt das Verzeichnis directory/ zum Staging-Bereich hinzu
+git add .                 # Fügt alle geänderten Dateien und Verzeichnisse zum Staging-Bereich hinzu
