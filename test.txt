@@ -5,3 +5,5 @@ Git add für die Auswahl dessen, was ihr commiten und pushen wollt:
 git add file.txt          # Fügt die Datei file.txt zum Staging-Bereich hinzu
 git add directory/        # Fügt das Verzeichnis directory/ zum Staging-Bereich hinzu
 git add .                 # Fügt alle geänderten Dateien und Verzeichnisse zum Staging-Bereich hinzu
+test
+git pu
